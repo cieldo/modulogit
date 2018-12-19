@@ -1,3 +1,2 @@
-Meu Primeriro Sistema no GIT
+Meu Primeriro Sistema no GIT (alterado atualizado)
 
-Alteração no readme para descever melhor meu sistema
